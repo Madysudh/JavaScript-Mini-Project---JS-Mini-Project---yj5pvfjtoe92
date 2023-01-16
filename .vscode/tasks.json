@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "Live Preview",
+			"workspacePath": "c:\\Users\\mady\\Desktop\\mady\\JavaScript-Mini-Project---JS-Mini-Project---yj5pvfjtoe92-1",
+			"problemMatcher": [],
+			"label": "Live Preview: Run Server"
+		}
+	]
+}
